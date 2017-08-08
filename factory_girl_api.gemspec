@@ -9,9 +9,7 @@ Gem::Specification.new do |s|
   s.version     = FactoryGirlApi::VERSION
   s.authors     = ["Philip Ingram"]
   s.email       = ["philip.d.ingram@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of FactoryGirlApi."
-  s.description = "TODO: Description of FactoryGirlApi."
+  s.summary     = "An API for FactoryGirl"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
